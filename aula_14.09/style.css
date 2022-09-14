@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  h2 {
+    color: aqua;
+    margin-left: 20px;
+  }
+  h3 {
+    color: coral;
+    margin-left: 20px;
+  }
+  h4 {
+    color: cadetblue;
+    margin-left: 20px;
+  }
+
+  .container {
+    margin: 0 auto;
+    width: 960px;
+    }
+ 
+    .containerr {
+    margin: 0 auto;
+    width: 1000px;
+    }
