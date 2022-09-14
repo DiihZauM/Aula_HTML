@@ -27,3 +27,23 @@ body {
     .containerr {
     width: auto;
     }
+    .button1{
+    color: black;
+    border: none;
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    background-color: #4CAF50;
+    }
+    .button2{
+        color: violet;
+        border: none;
+        padding: 20px 60px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        background-color: cyan;
+        }
